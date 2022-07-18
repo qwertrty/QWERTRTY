@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am working on Git and GitHub
+I am working on Git and GitHub!
 
 <!--
 **qwertrty/QWERTRTY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
